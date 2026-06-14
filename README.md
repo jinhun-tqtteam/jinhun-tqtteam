@@ -1,5 +1,5 @@
 # Hi, I'm Typer 👋
-**Solo Indie Hacker | Full-stack Developer | AI Automation Architect**
+** Full-stack Developer | Solo Builder | AI Automation Architect**
 
 I build context-aware AI tools and robust automation pipelines. Heavy focus on shipping SaaS, programmatic SEO (pSEO), and optimizing self-hosted infrastructure. I build in public and iterate fast.
 
